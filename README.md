@@ -28,6 +28,7 @@ Yes! While the original script is paid, we are not afiliated with Sirius in any 
 ## Authors
 
 - [@CasualDev(gcreeperplayz)](https://www.github.com/gcreeperplayz)
+- - [@Focat](https://www.github.com/focat)
 
 
 ## Start using Cirius!
